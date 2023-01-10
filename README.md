@@ -1,15 +1,13 @@
 <h1 align="left">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Helcio Anicio</h1>
 
-- 🔥 Junior Web Developer in formation and learning daily.
+- 🔥 Web Developer working and learning daily.
 
-- 🔭 I’m currently watching videos and reading documentations
+- 🔭 I’m currently watching videos, reading documentations and programming every day.
 
-- 💬 Ask me about JavaScript, HTML, CSS.
-
-<br><br>
+- 💬 talk to me about JavaScript, HTML, CSS.
+<br>
 
 ## 🛠 &nbsp;Tech Stack
-
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -25,15 +23,16 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 
 <br><br>
+-->
 
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=helcioanicio&show_icons=true&theme=vision-friendly-dark" alt="helcioanicio's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helcioanicio&layout=compact&theme=vision-friendly-dark" alt="helcioanicio's most languages"/>
 </p>
 
-
+<!--
 <br><br>
 
 ## Contact
@@ -55,24 +54,4 @@
  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
 </p>
--->
-
-<!--
-
-<img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
-
-
-<!--
-**HelcioAnicio/HelcioAnicio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
