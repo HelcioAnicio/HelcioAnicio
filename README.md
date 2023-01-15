@@ -1,6 +1,6 @@
 <h1 align="left">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Helcio Anicio</h1>
 
-- 🔥 Web Developer working and learning daily.
+- 🔥 Front-end Developer working and learning daily.
 
 - 🔭 I’m currently watching videos, reading documentations and programming every day.
 
@@ -25,6 +25,7 @@
 <br><br>
 -->
 
+<!--
 ## ⚙️ &nbsp;GitHub Analytics
 
 <span align="left">
@@ -32,7 +33,7 @@
 <span align="right">
 <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helcioanicio&layout=compact&theme=vision-friendly-dark" alt="helcioanicio's most languages"/>
 </span>
-
+-->
 <!--
 <br><br>
 
