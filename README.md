@@ -1,4 +1,4 @@
-<h1 align="left">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Helcio Anicio</h1>
+<h1 align="left">Hello, I'm Helcio Anicio</h1>
 
 - 🔥 Front-end Developer working and learning daily.
 
@@ -14,11 +14,11 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 
 <!--
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 
@@ -27,10 +27,10 @@
 
 
 ## ⚙️ &nbsp;GitHub Analytics
-<!--
-<span align="left">
+
+<!-- <span align="left">
 <img width="500em" src="https://github-readme-stats.vercel.app/api?username=helcioanicio&show_icons=true&theme=vision-friendly-dark" alt="helcioanicio's stats"/></span> -->
-<span align="left">
+<span align="right">
 <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helcioanicio&layout=compact&theme=vision-friendly-dark" alt="helcioanicio's most languages"/>
 </span>
 
