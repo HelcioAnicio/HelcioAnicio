@@ -30,10 +30,11 @@
 
 <!-- <span align="left">
 <img width="500em" src="https://github-readme-stats.vercel.app/api?username=helcioanicio&show_icons=true&theme=vision-friendly-dark" alt="helcioanicio's stats"/></span> -->
+<!--
 <span align="right">
 <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helcioanicio&layout=compact&theme=vision-friendly-dark" alt="helcioanicio's most languages"/>
 </span>
-
+-->
 <!--
 <br><br>
 
