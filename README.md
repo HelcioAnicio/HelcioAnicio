@@ -1,10 +1,16 @@
 <h1 align="left">Hello, I'm Helcio Anicio</h1>
 
-- 🔥 Front-end Developer working and learning daily.
+- 🔥 Front-end Developer working every day to be better. I've been studying for 9 months, and I've been passionate about programming since then, learning many technologies.
 
-- 🔭 I’m currently watching videos, reading documentations and programming every day.
-
-- 💬 talk to me about React.js, JavaScript, HTML5, CSS3 e SCSS.
+- 💬 talk to me about:
+- React.Js 
+- JavaScript
+- Node.Js
+- Firebase
+- HTML5
+- CSS3
+- SASS.
+- Git e GitHub.
 <br>
 
 ## 🛠 &nbsp;Tech Stack
@@ -25,11 +31,11 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<!-- <span align="left">
-<img width="500em" src="https://github-readme-stats.vercel.app/api?username=helcioanicio&show_icons=true&theme=vision-friendly-dark" alt="helcioanicio's stats"/></span> -->
+<span align="left">
+<img width="400em" src="https://github-readme-stats.vercel.app/api?username=HelcioAnicio&show_icons=true&theme=vision-friendly-dark" alt="helcioanicio's stats"/></span>
 
 <span align="right">
-<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helcioanicio&layout=compact&theme=vision-friendly-dark" alt="helcioanicio's most languages"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helcioanicio&layout=compact&theme=vision-friendly-dark" alt="helcioanicio's most languages"/>
 </span>
 
 
