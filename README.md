@@ -1,15 +1,16 @@
 <h1 align="left">Hello, I'm Helcio Anicio</h1>
 
-- 🔥 Front-end Developer working every day to be better. I've been studying for 9 months, and I've been passionate about programming since then, learning many technologies.
+- 🔥 Front-end Developer on a mission to craft amazing and user-friendly web experiences. Armed with HTML5, Sass, React.js, Firebase, and Node.js, I'm all about making the web awesome!
 
-- 💬 talk to me about:
+
+- 💬 My skills:
 - React.Js 
 - JavaScript
 - Node.Js
 - Firebase
 - HTML5
 - CSS3
-- SASS.
+- SASS
 - Git e GitHub.
 <br>
 
@@ -34,9 +35,9 @@
 <span align="left">
 <img width="400em" src="https://github-readme-stats.vercel.app/api?username=HelcioAnicio&show_icons=true&theme=vision-friendly-dark" alt="helcioanicio's stats"/></span>
 
-<span align="right">
+<!-- <span align="right">
 <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helcioanicio&layout=compact&theme=vision-friendly-dark" alt="helcioanicio's most languages"/>
-</span>
+</span> -->
 
 
 <br><br>
@@ -51,7 +52,7 @@
 <a href="https://www.linkedin.com/in/helcio-anicio/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-helcioanicio-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://www.instagram.com/helcioanicio/" target="_blank">
+<a href="https://www.instagram.com/dev.helcioanicio/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-helcioanicio-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <!--
