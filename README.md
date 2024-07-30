@@ -3,23 +3,16 @@
 - 🔥 Front-end Developer on a mission to craft amazing and user-friendly web experiences. Armed with HTML5, Sass, React.js, Firebase, and Node.js, I'm all about making the web awesome!
 
 - 💬 My skills:
-- React.Js
-- Next.js
-- JavaScript
-- Node.Js
-- PostgreSQL
-- Prisma
-- MondoDB
-- Firebase
-- Tailwind.Css
-- SASS
-- CSS3
-- HTML5
-- Git e GitHub.
+- React.Js, Redux, TypeScript, Next.Js, NextAuth, Node.js, Fastify, MongoDB, PostgreSQL, Prisma, Zod, SupaBase, Firebase, Tests, Javascript, Shadcn, Tailwind.css, Styled Components, Bootstrap, Sass, CSS3, HTML 5.
+
+- Metodologia Mobile First, metodologia BEM, Atomic Design, Conhecimento no SCRUM, CSS POO e JavaScript POO.
+
 <br>
 
 ## 🛠 &nbsp;Tech Stack
 ![React](https://img.shields.io/badge/-React.Js-05122A?style=flat&logo=react)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
+![Typescript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
